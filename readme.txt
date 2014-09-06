@@ -11,4 +11,5 @@ zhang qingqing
 
 Git has a mut able index called stage
 
+Git tracks changes
 
